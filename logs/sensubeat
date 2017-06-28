@@ -1,0 +1,54 @@
+2017-06-27T21:11:04-04:00 INFO Setup Beat: sensubeat; Version: 5.4.1
+2017-06-27T21:11:04-04:00 INFO Loading template enabled. Reading template file: /Users/kyliefisher/go/src/github.com/fylie/sensubeat/sensubeat.template.json
+2017-06-27T21:11:04-04:00 INFO Loading template enabled for Elasticsearch 2.x. Reading template file: /Users/kyliefisher/go/src/github.com/fylie/sensubeat/sensubeat.template-es2x.json
+2017-06-27T21:11:04-04:00 INFO Loading template enabled for Elasticsearch 6.x. Reading template file: /Users/kyliefisher/go/src/github.com/fylie/sensubeat/sensubeat.template-es6x.json
+2017-06-27T21:11:04-04:00 INFO Elasticsearch url: http://localhost:9200
+2017-06-27T21:11:04-04:00 INFO Activated elasticsearch as output plugin.
+2017-06-27T21:11:04-04:00 INFO Publisher name: pancake.local
+2017-06-27T21:11:04-04:00 INFO Flush Interval set to: 1s
+2017-06-27T21:11:04-04:00 INFO Max Bulk Size set to: 50
+2017-06-27T21:11:04-04:00 INFO sensubeat start running.
+2017-06-27T21:11:04-04:00 INFO sensubeat is running! Hit CTRL-C to stop it.
+2017-06-27T21:11:05-04:00 INFO Event sent
+2017-06-27T21:11:06-04:00 INFO Connected to Elasticsearch version 5.2.2
+2017-06-27T21:11:06-04:00 INFO Trying to load template for client: http://localhost:9200
+2017-06-27T21:11:06-04:00 INFO Event sent
+2017-06-27T21:11:06-04:00 INFO Template already exists and will not be overwritten.
+2017-06-27T21:11:06-04:00 WARN Can not index event (status=400): {"type":"mapper_parsing_exception","reason":"Field [_id] is a metadata field and cannot be added inside a document. Use the index API request parameters."}
+2017-06-27T21:11:07-04:00 INFO Event sent
+2017-06-27T21:11:07-04:00 WARN Can not index event (status=400): {"type":"mapper_parsing_exception","reason":"Field [_id] is a metadata field and cannot be added inside a document. Use the index API request parameters."}
+2017-06-27T21:11:08-04:00 WARN Can not index event (status=400): {"type":"mapper_parsing_exception","reason":"Field [_id] is a metadata field and cannot be added inside a document. Use the index API request parameters."}
+2017-06-27T21:11:08-04:00 INFO Event sent
+2017-06-27T21:11:09-04:00 INFO Event sent
+2017-06-27T21:11:09-04:00 WARN Can not index event (status=400): {"type":"mapper_parsing_exception","reason":"Field [_id] is a metadata field and cannot be added inside a document. Use the index API request parameters."}
+2017-06-27T21:11:10-04:00 WARN Can not index event (status=400): {"type":"mapper_parsing_exception","reason":"Field [_id] is a metadata field and cannot be added inside a document. Use the index API request parameters."}
+2017-06-27T21:11:10-04:00 INFO Event sent
+2017-06-27T21:11:11-04:00 INFO Event sent
+2017-06-27T21:11:11-04:00 WARN Can not index event (status=400): {"type":"mapper_parsing_exception","reason":"Field [_id] is a metadata field and cannot be added inside a document. Use the index API request parameters."}
+2017-06-27T21:11:12-04:00 INFO Event sent
+2017-06-27T21:11:12-04:00 WARN Can not index event (status=400): {"type":"mapper_parsing_exception","reason":"Field [_id] is a metadata field and cannot be added inside a document. Use the index API request parameters."}
+2017-06-27T21:11:13-04:00 INFO Event sent
+2017-06-27T21:11:13-04:00 WARN Can not index event (status=400): {"type":"mapper_parsing_exception","reason":"Field [_id] is a metadata field and cannot be added inside a document. Use the index API request parameters."}
+2017-06-27T21:11:14-04:00 WARN Can not index event (status=400): {"type":"mapper_parsing_exception","reason":"Field [_id] is a metadata field and cannot be added inside a document. Use the index API request parameters."}
+2017-06-27T21:11:14-04:00 INFO Event sent
+2017-06-27T21:11:15-04:00 WARN Can not index event (status=400): {"type":"mapper_parsing_exception","reason":"Field [_id] is a metadata field and cannot be added inside a document. Use the index API request parameters."}
+2017-06-27T21:11:15-04:00 INFO Event sent
+2017-06-27T21:11:16-04:00 WARN Can not index event (status=400): {"type":"mapper_parsing_exception","reason":"Field [_id] is a metadata field and cannot be added inside a document. Use the index API request parameters."}
+2017-06-27T21:11:16-04:00 INFO Event sent
+2017-06-27T21:11:17-04:00 INFO Event sent
+2017-06-27T21:11:17-04:00 WARN Can not index event (status=400): {"type":"mapper_parsing_exception","reason":"Field [_id] is a metadata field and cannot be added inside a document. Use the index API request parameters."}
+2017-06-27T21:11:18-04:00 WARN Can not index event (status=400): {"type":"mapper_parsing_exception","reason":"Field [_id] is a metadata field and cannot be added inside a document. Use the index API request parameters."}
+2017-06-27T21:11:18-04:00 INFO Event sent
+2017-06-27T21:11:19-04:00 WARN Can not index event (status=400): {"type":"mapper_parsing_exception","reason":"Field [_id] is a metadata field and cannot be added inside a document. Use the index API request parameters."}
+2017-06-27T21:11:19-04:00 INFO Event sent
+2017-06-27T21:11:20-04:00 INFO Event sent
+2017-06-27T21:11:20-04:00 WARN Can not index event (status=400): {"type":"mapper_parsing_exception","reason":"Field [_id] is a metadata field and cannot be added inside a document. Use the index API request parameters."}
+2017-06-27T21:11:21-04:00 WARN Can not index event (status=400): {"type":"mapper_parsing_exception","reason":"Field [_id] is a metadata field and cannot be added inside a document. Use the index API request parameters."}
+2017-06-27T21:11:21-04:00 INFO Event sent
+2017-06-27T21:11:22-04:00 INFO Event sent
+2017-06-27T21:11:22-04:00 WARN Can not index event (status=400): {"type":"mapper_parsing_exception","reason":"Field [_id] is a metadata field and cannot be added inside a document. Use the index API request parameters."}
+2017-06-27T21:11:23-04:00 INFO Event sent
+2017-06-27T21:11:23-04:00 WARN Can not index event (status=400): {"type":"mapper_parsing_exception","reason":"Field [_id] is a metadata field and cannot be added inside a document. Use the index API request parameters."}
+2017-06-27T21:11:24-04:00 INFO Total non-zero values:  libbeat.es.call_count.PublishEvents=18 libbeat.es.publish.read_bytes=7321 libbeat.es.publish.write_bytes=21038 libbeat.es.published_and_acked_events=18 libbeat.publisher.messages_in_worker_queues=19 libbeat.publisher.published_events=19
+2017-06-27T21:11:24-04:00 INFO Uptime: 19.247336331s
+2017-06-27T21:11:24-04:00 INFO sensubeat stopped.
